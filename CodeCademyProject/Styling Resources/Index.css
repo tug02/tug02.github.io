@@ -1,0 +1,96 @@
+#Top{
+    background-image: url(./frames.jpeg) ;
+    background-position: center;
+}
+
+#Top h1{
+    font-family: fantasy;
+    font-weight: 500;
+    font-size: 100px;
+    color:cadetblue;
+    text-align: center;
+    
+}
+
+#Brushes{
+    width:100%;
+    background-color:lightblue;
+
+}
+
+#Brushes h3{
+    font-family: cursive;
+    font-weight: 600;
+    font-size: 32px;
+    color:aliceblue;
+
+}
+
+#hack {
+ offset-position: left;
+}
+
+#image h4{
+    font-family: cursive;
+    font-weight: 500;
+
+}
+
+#el{
+    color: blue;
+    font-weight: 500;
+    font-family: fantasy;
+}
+
+#Frames{
+    width: 100%;
+    background-color: aqua;
+}
+
+#Frames h3{
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 32px;
+    color: aliceblue;
+
+}
+
+p{
+    font-family: cursive;
+}
+#Paint{
+     width: 100%;
+     background-color: aqua;
+}
+
+#Paint h3{
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 32px;
+    color: aliceblue;
+}
+
+
+#f{
+    offset-position: left;
+}
+#last{
+    offset-position: left;
+}
+
+#fp{
+    color: blue;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+#final{
+    color: blue;
+    font-weight: 500;
+    font-family: fantasy;
+}
+
+h4{
+    font-family: cursive;
+    font-weight: 500;
+}
